@@ -5,11 +5,14 @@ This blog is intended to prepare notes for myself and my readers with similar in
 ## About me
 
 [Github Profile](https://github.com/nikitasethgaba)
+
 [LinkedIn Profile](https://www.linkedin.com/in/nikitagaba/)
 
 ## Publications
 [IEEE - ACI (automated Continuous Integration) using Jenkins: Key for successful embedded Software development](https://ieeexplore.ieee.org/document/7453279/citations?tabFilter=papers#citations)
+
 [IEEE - Comparison of Different CI/CD Tools Integrated with Cloud Platform](https://ieeexplore.ieee.org/document/8776985)
+
 [Medium](https://medium.com/@gabanikita18/first-experience-with-apache-superset-6f9056da6f6f)
 
 ## Topics Covered
