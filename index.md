@@ -13,7 +13,7 @@ This blog is intended to prepare notes for myself and my readers with similar in
 
 [IEEE - Comparison of Different CI/CD Tools Integrated with Cloud Platform](https://ieeexplore.ieee.org/document/8776985)
 
-[Medium Profile](https://medium.com/@gabanikita18/first-experience-with-apache-superset-6f9056da6f6f)
+[Apache Superset](https://medium.com/@gabanikita18/first-experience-with-apache-superset-6f9056da6f6f)
 
 ## Topics Covered
 ### JAVA
